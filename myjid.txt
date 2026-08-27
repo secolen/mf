@@ -23,7 +23,7 @@ vless://039a7840-3f42-4f12-a8cf-78aee7c86e9f@106.75.143.18:5010?encryption=none&
 vless://039a7840-3f42-4f12-a8cf-78aee7c86e9f@106.75.143.18:5011?encryption=none&security=reality&type=tcp&fp=chrome&pbk=SCKPUmFnxhMmWB8pukNJArqtWVZV4G7zeClrOUwXjjw&sni=buylite.tv.apple.com&sid=87991e38#日本-04
 vless://039a7840-3f42-4f12-a8cf-78aee7c86e9f@106.75.143.18:5015?encryption=none&security=reality&type=tcp&fp=chrome&pbk=Ovm5aUXrAx3zbb9XkCX2G5Jv8x9uJHvYYHMpi6J7Jjo&sni=buylite.tv.apple.com&sid=6e72bbc4#台湾-01
 vless://039a7840-3f42-4f12-a8cf-78aee7c86e9f@106.75.143.18:5016?encryption=none&security=reality&type=tcp&fp=chrome&pbk=QY6okwYg8SY6gW41QKg6poorjUP9y2YwoCW_Rp05IBI&sni=buylite.tv.apple.com&sid=170b54d7#台湾-02
-vless://039a7840-3f42-4f12-a8cf-78aee7c86e9f@106.75.143.18:5017?encryption=none&security=reality&type=tcp&fp=chrome&pbk=15COnE_UiNGuhF_dDj--DQX9dRPkphi-yTJ-YO2w9SI&sni=buylite.tv.apple.com&sid=c26967b9#台湾-03
+vless://039a7840-3f42-4f12-a8cf-78aee7c86e9f@106.75.143.18:5017?encryption=none&security=reality&type=tcp&fp=chrome&pbk=15COnE_UiNGuhF_dDj--DQX9dRPkphi-yTJ-YO2w9SI&sni=buylite.tv.appleex.com&sid=c26967b9#台湾-03
 vless://039a7840-3f42-4f12-a8cf-78aee7c86e9f@106.75.143.18:5018?encryption=none&security=reality&type=tcp&fp=chrome&pbk=ub08z6M80Ddag6E0UbHUVJZfXnwiOrdEi3SoE7t_rRw&sni=buylite.tv.apple.com&sid=5c817501#日本-05
 vless://039a7840-3f42-4f12-a8cf-78aee7c86e9f@106.75.143.18:5019?encryption=none&security=reality&type=tcp&fp=chrome&pbk=KZi2htmbtBu56b2V4P_6fQnT5cvTU-wyLARLRCu-vTA&sni=buylite.tv.apple.com&sid=c6ae43a8#香港-01
 vless://039a7840-3f42-4f12-a8cf-78aee7c86e9f@106.75.143.18:5020?encryption=none&security=reality&type=tcp&fp=chrome&pbk=dROhuswwq-4NajAw8xbf3WDKw33fGDtXr1JdrdSCp0M&sni=buylite.tv.apple.com&sid=269707f8#香港-02
