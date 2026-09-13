@@ -1,3 +1,126 @@
-vmess://YXV0bzpkOTBlNDA3Ny1iYzdlLTQxNGQtYTY1MC03MGJmMWJhYWU0ZDZAODIyNTk3NTRkNjI1Lm95bGZteHouY246NDQz?备注=%E5%8F%B0%E7%81%A3%E4%BD%8 F%E5%AE%85&obfsParam=82259754d625.oylfmxz.cn&path=/&obfs=websocket&tls=1&peer=82259754d625.oylfmxz.cn&alterId=0
-vmess://YXV0bzpkOTBlNDA3Ny1iYzdlLTQxNGQtYTY1MC03MGJmMWJhYWU0ZDZAODIyNTk3NTRkNjI1Lm95bGZteHouY246NDQz?备注=%E5%8F%B0%E6%B9%BE%E5%AE%B6%E5%AE%BD1&obfsParam=82259754d625.oylfmxz.cn&path=/&obfs=websocket&tls=1&peer=82259754d625.oylfmxz.cn&allowInsecure=1&alterId=0
-vmess://YXV0bzpkOTBlNDA3Ny1iYzdlLTQxNGQtYTY1MC03MGJmMWJhYWU0ZDZAN2RiYTgxZmMzYTBiLm95bGZteHouY246NDQz?备注=%E5%8F%B0%E6%B9%BE%E5%AE%B6%E5%AE%BD2&obfsParam=7dba81fc3a0b.oylfmxz.cn&path=/&obfs=websocket&tls=1&peer=7dba81fc3a0b.oylfmxz.cn&allowInsecure=1&alterId=0
+vless=sg03.ea9c2ab8-b920-4e14-a158-f1c21c866378.genshinimpact.cyou:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=updates.cdn-apple.com, reality-base64-pubkey=6tZ4-sKZoUDDkjCPqpsJlWWo8Q5eW7IXuZUuUPPh2h8, reality-hex-shortid=9cd7cae9, vless-flow=xtls-rprx-vision, tag=🇸🇬 狮城沙嗲串 | DDNSv4
+vless=sg03-v6.ea9c2ab8-b920-4e14-a158-f1c21c866378.genshinimpact.cyou:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=updates.cdn-apple.com, reality-base64-pubkey=6tZ4-sKZoUDDkjCPqpsJlWWo8Q5eW7IXuZUuUPPh2h8, reality-hex-shortid=9cd7cae9, vless-flow=xtls-rprx-vision, tag=🇸🇬 狮城沙嗲串 | DDNSv6
+vless=13.215.248.99:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=updates.cdn-apple.com, reality-base64-pubkey=6tZ4-sKZoUDDkjCPqpsJlWWo8Q5eW7IXuZUuUPPh2h8, reality-hex-shortid=9cd7cae9, vless-flow=xtls-rprx-vision, tag=🇸🇬 狮城沙嗲串 | IPv4
+vless=[2406:da18:1299:8800:6855:d873:49c3:1047]:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=updates.cdn-apple.com, reality-base64-pubkey=6tZ4-sKZoUDDkjCPqpsJlWWo8Q5eW7IXuZUuUPPh2h8, reality-hex-shortid=9cd7cae9, vless-flow=xtls-rprx-vision, tag=🇸🇬 狮城沙嗲串 | IPv6
+vless=jp03.73c01f37-d10a-4317-a43a-380fc51d0bc4.genshinimpact.cyou:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=updates.cdn-apple.com, reality-base64-pubkey=upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o, reality-hex-shortid=94d3f4df, vless-flow=xtls-rprx-vision, tag=🇯🇵 日本天妇罗 | DDNSv4
+vless=jp03-v6.73c01f37-d10a-4317-a43a-380fc51d0bc4.genshinimpact.cyou:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=updates.cdn-apple.com, reality-base64-pubkey=upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o, reality-hex-shortid=94d3f4df, vless-flow=xtls-rprx-vision, tag=🇯🇵 日本天妇罗 | DDNSv6
+vless=18.183.23.100:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=updates.cdn-apple.com, reality-base64-pubkey=upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o, reality-hex-shortid=94d3f4df, vless-flow=xtls-rprx-vision, tag=🇯🇵 日本天妇罗 | IPv4
+vless=[2406:da14:131d:9900:8d1d:d6b0:fcd0:b8fa]:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=updates.cdn-apple.com, reality-base64-pubkey=upIlaFG6DWfKE8wjn_qXYqb9ohDNavC3LRayjJ4Wp1o, reality-hex-shortid=94d3f4df, vless-flow=xtls-rprx-vision, tag=🇯🇵 日本天妇罗 | IPv6
+vless=sg01.ebf263c3-0b7e-4e71-87b9-26978dc121c4.genshinimpact.cyou:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-sg01.download.pikoport.com, tag=🇸🇬 狮城肉骨茶 | DDNSv4
+vless=sg01-v6.ebf263c3-0b7e-4e71-87b9-26978dc121c4.genshinimpact.cyou:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-sg01.download.pikoport.com, tag=🇸🇬 狮城肉骨茶 | DDNSv6
+vless=13.215.60.114:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-sg01.download.pikoport.com, tag=🇸🇬 狮城肉骨茶 | IPv4
+vless=[2406:da18:10d2:9251:fa83:3d0c:ab07:bc5c]:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-sg01.download.pikoport.com, tag=🇸🇬 狮城肉骨茶 | IPv6
+vless=sg02.05e57c23-bae7-41a0-aeef-8e75566fc3dd.genshinimpact.cyou:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-sg02.download.pikoport.com, tag=🇸🇬 狮城肉脞面 | DDNSv4
+vless=sg02-v6.05e57c23-bae7-41a0-aeef-8e75566fc3dd.genshinimpact.cyou:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-sg02.download.pikoport.com, tag=🇸🇬 狮城肉脞面 | DDNSv6
+vless=13.215.178.54:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-sg02.download.pikoport.com, tag=🇸🇬 狮城肉脞面 | IPv4
+vless=[2406:da18:1afa:2aa4:ccd9:9617:ee83:551c]:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-sg02.download.pikoport.com, tag=🇸🇬 狮城肉脞面 | IPv6
+vless=jp01.5392a812-9a56-456f-b89a-9e5b4208168a.genshinimpact.cyou:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-jp01.download.pikoport.com, tag=🇯🇵 日本关东煮 | DDNSv4
+vless=jp01-v6.5392a812-9a56-456f-b89a-9e5b4208168a.genshinimpact.cyou:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-jp01.download.pikoport.com, tag=🇯🇵 日本关东煮 | DDNSv6
+vless=13.196.212.168:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-jp01.download.pikoport.com, tag=🇯🇵 日本关东煮 | IPv4
+vless=[2406:da14:275:b543:157b:f75d:26dc:785d]:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-jp01.download.pikoport.com, tag=🇯🇵 日本关东煮 | IPv6
+vless=jp02.cbd12403-7946-4bbc-8127-2d9e5f1d50bc.genshinimpact.cyou:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-jp02.download.pikoport.com, tag=🇯🇵 日本章鱼烧 | DDNSv4
+vless=jp02-v6.cbd12403-7946-4bbc-8127-2d9e5f1d50bc.genshinimpact.cyou:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-jp02.download.pikoport.com, tag=🇯🇵 日本章鱼烧 | DDNSv6
+vless=35.78.231.72:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-jp02.download.pikoport.com, tag=🇯🇵 日本章鱼烧 | IPv4
+vless=[2406:da14:eba:5900:412a:cf0c:de20:c6b]:8443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=cdn-jp02.download.pikoport.com, tag=🇯🇵 日本章鱼烧 | IPv6
+vless=staticdelivery.nexusmods.com:80, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=ws, obfs-host=ak.mcdonaldshamburgergoodgoodgood.xyz, obfs-uri=/, tag=🇭🇰 香港碗仔翅
+vless=104.18.42.54:80, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=ws, obfs-host=ak.mcdonaldshamburgergoodgoodgood.xyz, obfs-uri=/, tag=🇭🇰 香港碗仔翅 | IP
+vless=us01.d168f27a-5efc-4699-891d-eda6ea40be1d.genshinimpact.cyou:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=download.windowsupdate.com, reality-base64-pubkey=eN-hpk_h3mbxeGOfINunn7Ij_nsfFkgja3w5breOygg, reality-hex-shortid=296d5815, vless-flow=xtls-rprx-vision, tag=🇺🇸 美国龙虾卷 | DDNSv4
+vless=us01-v6.d168f27a-5efc-4699-891d-eda6ea40be1d.genshinimpact.cyou:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=download.windowsupdate.com, reality-base64-pubkey=eN-hpk_h3mbxeGOfINunn7Ij_nsfFkgja3w5breOygg, reality-hex-shortid=296d5815, vless-flow=xtls-rprx-vision, tag=🇺🇸 美国龙虾卷 | DDNSv6
+vless=us02.4b214271-fd51-4e6b-9303-fe6e915f406d.genshinimpact.cyou:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=www.bing.com, reality-base64-pubkey=bKG1vbvrxm4NfSqBx-0Co84M_uLLEEftv2Ql8G7rjhM, reality-hex-shortid=157eb31c, vless-flow=xtls-rprx-vision, tag=🇺🇸 美国奶油派 | DDNSv4
+vless=us02-v6.4b214271-fd51-4e6b-9303-fe6e915f406d.genshinimpact.cyou:443, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=over-tls, obfs-host=software.download.prss.microsoft.com, reality-base64-pubkey=bKG1vbvrxm4NfSqBx-0Co84M_uLLEEftv2Ql8G7rjhM, reality-hex-shortid=157eb31c, vless-flow=xtls-rprx-vision, tag=🇺🇸 美国奶油派 | DDNSv6
+vless=104.18.42.54:80, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=ws, obfs-host=us6.mcdonaldshamburgergoodgoodgood.xyz, obfs-uri=/, tag=🇺🇸 美国汉堡包 | IP
+vless=staticdelivery.nexusmods.com:80, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=ws, obfs-host=us6.mcdonaldshamburgergoodgoodgood.xyz, obfs-uri=/, tag=🇺🇸 美国汉堡包
+vless=104.18.42.54:80, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=ws, obfs-host=us5.mcdonaldshamburgergoodgoodgood.xyz, obfs-uri=/, tag=🇺🇸 美国苹果派 | IP
+vless=www.shopify.com:80, method=none, password=a260990b-e134-4b1b-b43c-25bae4e1d31c, obfs=ws, obfs-host=us5.mcdonaldshamburgergoodgoodgood.xyz, obfs-uri=/, tag=🇺🇸 美国苹果派
+anytls=ft-any.ftnode369.com:44592, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇭🇰 超时请重新导入
+anytls=ft-any.ftnode369.com:18001, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇭🇰 香港_01
+anytls=ft-any.ftnode369.com:18002, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇭🇰 香港_02
+anytls=ft-any.ftnode369.com:18003, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇭🇰 香港_03
+anytls=ft-any.ftnode369.com:18004, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇭🇰 香港_04
+anytls=ft-any.ftnode369.com:18005, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇭🇰 香港_05
+anytls=ft-any.ftnode369.com:29001, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇸🇬 新加坡_01
+anytls=ft-any.ftnode369.com:29002, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇸🇬 新加坡_02
+anytls=ft-any.ftnode369.com:29003, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇸🇬 新加坡_03
+anytls=ft-any.ftnode369.com:29004, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇸🇬 新加坡_04
+anytls=ft-any.ftnode369.com:29005, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇸🇬 新加坡_05
+anytls=ft-any.ftnode369.com:39001, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇯🇵 日本_01
+anytls=ft-any.ftnode369.com:39002, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇯🇵 日本_02
+anytls=ft-any.ftnode369.com:39003, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇯🇵 日本_03
+anytls=ft-any.ftnode369.com:39004, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇯🇵 日本_04
+anytls=ft-any.ftnode369.com:39005, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇯🇵 日本_05
+anytls=ft-any.ftnode369.com:49001, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇺🇸 美国_01
+anytls=ft-any.ftnode369.com:49002, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇺🇸 美国_02
+anytls=ft-any.ftnode369.com:49003, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇺🇸 美国_03
+anytls=ft-any.ftnode369.com:49004, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇺🇸 美国_04
+anytls=ft-any.ftnode369.com:49005, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇺🇸 美国_05
+anytls=ft-any.ftnode369.com:49006, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇺🇸 美国_06
+anytls=ft-any.ftnode369.com:49007, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇺🇸 美国_07
+anytls=ft-any.ftnode369.com:49008, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇺🇸 美国_08
+anytls=ft-any.ftnode369.com:49009, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇺🇸 美国_09
+anytls=ft-any.ftnode369.com:49010, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇺🇸 美国_10
+anytls=ft-any.ftnode369.com:59001, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇼🇸 台湾_01
+anytls=ft-any.ftnode369.com:59002, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇼🇸 台湾_02
+anytls=ft-any.ftnode369.com:59003, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇼🇸 台湾_03
+anytls=ft-any.ftnode369.com:59004, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇼🇸 台湾_04
+anytls=ft-any.ftnode369.com:59005, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇼🇸 台湾_05
+anytls=ft-any.ftnode369.com:60010, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇬🇧 英国-伦敦
+anytls=ft-any.ftnode369.com:60012, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇩🇪 德国-法兰克福
+anytls=ft-any.ftnode369.com:60013, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇲🇾 马来西亚-吉隆坡
+anytls=ft-any.ftnode369.com:60014, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇰🇷 韩国-首尔
+anytls=ft-any.ftnode369.com:60015, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇵🇭 菲律宾-马尼拉
+anytls=ft-any.ftnode369.com:60016, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇷🇺 俄罗斯-莫斯科
+anytls=ft-any.ftnode369.com:60017, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇮🇩 印度尼西亚-雅加达
+anytls=ft-any.ftnode369.com:60018, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇿🇦 南非-约翰内斯堡
+anytls=ft-any.ftnode369.com:60019, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇰🇭 柬埔寨-金边
+anytls=ft-any.ftnode369.com:60020, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇻🇳 越南-河内
+anytls=ft-any.ftnode369.com:60021, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇦🇷 阿根廷-布宜诺斯艾利斯
+anytls=ft-any.ftnode369.com:60022, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇹🇷 土耳其-伊斯坦布尔
+anytls=ft-any.ftnode369.com:60023, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇪🇬 埃及-开罗
+anytls=ft-any.ftnode369.com:60024, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇹🇭 泰国-曼谷
+anytls=ft-any.ftnode369.com:60025, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇦🇪 阿联酋-迪拜
+anytls=ft-any.ftnode369.com:60026, password=15eeb3c6-8731-4495-978b-ed6f50eda5f2, over-tls=true, tls-host=fphpnew.phper110.org, udp-relay=true, tag=🇨🇦 加拿大-多伦多
+anytls=jsy.juse168.com:51501, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇭🇰 Hong Kong 01
+anytls=jsy.juse168.com:51502, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇭🇰 Hong Kong 02
+anytls=jsy.juse168.com:51503, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇭🇰 Hong Kong 03
+anytls=jsy.juse168.com:51504, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇭🇰 Hong Kong 04
+anytls=jsy.juse168.com:51505, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇭🇰 Hong Kong 05
+anytls=jsy.juse168.com:51506, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇭🇰 Hong Kong 06
+anytls=jsy.juse168.com:51507, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇭🇰 Hong Kong 07
+anytls=jsy.juse168.com:51508, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇭🇰 Hong Kong 08
+anytls=jsy.juse168.com:51509, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇭🇰 Hong Kong 09
+anytls=jsy.juse168.com:51510, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇭🇰 Hong Kong 10
+anytls=jsy.juse168.com:51521, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇯🇵  Japan 01
+anytls=jsy.juse168.com:51522, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇯🇵  Japan 02
+anytls=jsy.juse168.com:51523, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇯🇵  Japan 03
+anytls=jsy.juse168.com:51524, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇯🇵  Japan 04
+anytls=jsy.juse168.com:51525, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇯🇵  Japan 05
+anytls=jsy.juse168.com:51526, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇯🇵  Japan 06
+anytls=jsy.juse168.com:51527, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇯🇵  Japan 07
+anytls=jsy.juse168.com:51528, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇯🇵  Japan 08
+anytls=jsy.juse168.com:51529, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇯🇵  Japan 09
+anytls=jsy.juse168.com:51530, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇯🇵  Japan 10
+anytls=jsy.juse168.com:51541, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇺🇸 USA 01
+anytls=jsy.juse168.com:51542, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇺🇸 USA 02
+anytls=jsy.juse168.com:51543, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇺🇸 USA 03
+anytls=jsy.juse168.com:51544, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇺🇸 USA 04
+anytls=jsy.juse168.com:51545, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇺🇸 USA 05
+anytls=jsy.juse168.com:51546, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇺🇸 USA 06
+anytls=jsy.juse168.com:51547, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇺🇸 USA 07
+anytls=jsy.juse168.com:51548, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇺🇸 USA 08
+anytls=jsy.juse168.com:51549, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇺🇸 USA 09
+anytls=jsy.juse168.com:51550, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇺🇸 USA 10
+anytls=jsy.juse168.com:51571, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇸🇬 Singapore 01
+anytls=jsy.juse168.com:51572, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇸🇬 Singapore 02
+anytls=jsy.juse168.com:51573, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇸🇬 Singapore 03
+anytls=jsy.juse168.com:51574, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇸🇬 Singapore 04
+anytls=jsy.juse168.com:51575, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇸🇬 Singapore 05
+anytls=jsy.juse168.com:51576, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇸🇬 Singapore 06
+anytls=jsy.juse168.com:51577, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇸🇬 Singapore 07
+anytls=jsy.juse168.com:51578, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇸🇬 Singapore 08
+anytls=jsy.juse168.com:51579, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇸🇬 Singapore 09
+anytls=jsy.juse168.com:51580, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇸🇬 Singapore 10
+anytls=jsy.juse168.com:51581, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇩🇪 FRG 01
+anytls=jsy.juse168.com:51582, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇹🇷 Tur 01
+anytls=jsy.juse168.com:51583, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇷🇺 Russ 01
+anytls=jsy.juse168.com:51584, password=dda8b24e-13ea-45b3-a928-ff7079d5800b, over-tls=true, tls-host=apple.com, tls-verification=false, udp-relay=true, tag=🇬🇧 UK 01
+
