@@ -1,1 +1,2 @@
 hysteria2://Fe5j91KxmL1I173W7Q%3D@104.168.13.18:443?sni=www.bing.com&insecure=1#hy2-node1
+vless://19a23dca-43b2-43e6-8eac-bbfdd806e5e7@104.168.13.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Iv0M8v01aThXuqwYSMFzERbEqv8RUbIy1xyztxHVQ&sid=e7b31fe2c7f743b0&type=tcp#vless-reality
