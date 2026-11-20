@@ -1,2 +1,2 @@
 hysteria2://Fe5j91KxmL1I173W7Q%3D@104.168.13.18:443?sni=www.bing.com&insecure=1#hy2-node1
-vless://19a23dca-d82b-43e6-8eac-b8bfdd806e5e7@104.168.13.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=N0rg9kHg7lpWyBoK29Uhg6u-kx-fW9wcnKwxhDk-1Ec&sid=72e3e1e564c34c0a&type=tcp#vless-reality
+vless://5cda2aa7-a1b3-4f37-a1b6-54786706efc8@104.168.13.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=2cSN2JK7kXPNk9pR8uCJvjz2OyKwxqHQlrGkGcYmFgk&sid=afaf94dc200372ce&type=tcp#vless-reality
