@@ -1,2 +1,2 @@
-vless://157e91b7-0dbb-4103-8836-82edf901d654@104.168.13.18:9443/?type=tcp&encryption=none&security=reality&support-x25519mlkem768=true&pbk=fVY8eE-IT3y66sqQcW-OM9yokO6pubtxN-2JLBYPKxw&fp=chrome&sni=www.microsoft.com&sid=589e7795bc6f7cb1&spx=%2Fd29e755726f3283&flow=xtls-rprx-vision#vless-9443
+vless://157e91b7-0dbb-4103-8836-82edf901d654@104.168.13.30:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&allowInsecure=1#vless-tls443
 hysteria2://tv30476ol5gav5az@104.168.13.18:8443/?security=tls&alpn=h3&obfs=salamander&obfs-password=zavvoxr09j3f4qa7#hy2-8443
