@@ -1,2 +1,1 @@
-vless://157e91b7-0dbb-4103-8836-82edf901d654@104.168.13.30:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&allowInsecure=1#vless-tls443
-hysteria2://tv30476ol5gav5az@104.168.13.18:8443/?security=tls&alpn=h3&obfs=salamander&obfs-password=zavvoxr09j3f4qa7#hy2-8443
+vless://fab4a4a2-bca6-496a-b7fe-5fc274031553@104.168.13.30:8080?encryption=none&security=none&type=tcp#vless-8080-myphone
