@@ -1,1 +1,2 @@
-vless://fab4a4a2-bca6-496a-b7fe-5fc274031553@104.168.13.30:8080?encryption=none&security=none&type=tcp#vless-8080-myphone
+
+vless://fab4a4a2-bca6-496a-b7fe-5fc274031553@104.168.13.30:8080/?type=tcp&encryption=none&security=none#us
